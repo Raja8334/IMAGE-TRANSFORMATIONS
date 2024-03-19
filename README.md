@@ -188,6 +188,7 @@ plt.show()
 
 ### vi)Image Cropping
 ![Screenshot 2024-03-19 114746](https://github.com/Raja8334/IMAGE-TRANSFORMATIONS/assets/120719634/21771095-291e-41c6-9cd4-167cf1acd33f)
+![Screenshot 2024-03-19 114800](https://github.com/Raja8334/IMAGE-TRANSFORMATIONS/assets/120719634/1e96d3ba-e88d-4300-a0a4-ff67677644ce)
 
 
 
